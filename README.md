@@ -1,4 +1,4 @@
-
+ 
 
 <h1 align="center">Hi 👋, I'm Aditya Telharkar</h1>
 <h3 align="center">I am a passionate data analyst and data science enthusiast based in Maharashtra, India.</h3>
